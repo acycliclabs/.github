@@ -1,4 +1,4 @@
-<p align="center"><a href="https://acycliclabs.com" target="_blank"><img alt="Acyclic Labs" title="Web3 RnD" src="https://raw.githubusercontent.com/acycliclabs/.github/main/logo.png" width="100%">
+<p align="center"><a href="https://acycliclabs.com" target="_blank"><img alt="Acyclic Labs" title="Web3 RnD" src="https://raw.githubusercontent.com/acycliclabs/.github/main/logo.png" width="400px">
 </a>
 </p>
 
